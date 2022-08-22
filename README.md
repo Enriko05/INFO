@@ -1,2 +1,0 @@
-# INFO
-MY INFO
